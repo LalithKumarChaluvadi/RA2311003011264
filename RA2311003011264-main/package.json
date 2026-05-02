@@ -1,0 +1,10 @@
+{
+  "name": "ra2311003011264-main",
+  "version": "1.0.0",
+  "description": "Notification and vehicle maintenance scheduler API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "ISC"
+}
